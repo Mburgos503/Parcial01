@@ -17,5 +17,6 @@ class ParquesAdapter(private val parque: List<Parque>) : RecyclerView.Adapter<Pa
     }
 
     override fun onBindViewHolder(holder: ParquesViewHolder, position: Int) {
+        TODO("Not yet implemented")
     }
 }
