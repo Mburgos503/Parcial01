@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Parcial_00063121</string>
+    <string name="title_home">Nuestros Parques</string>
+    <string name="string_add_park">Add park</string>
 </resources>
